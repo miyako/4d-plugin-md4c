@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+<header>
+    <note>md4c</note>
+</header>
+<group resname="themes">
+    <trans-unit id="md4c" resname="md4c" translate="no">
+        <source>md4c</source>
+    </trans-unit>
+</group>
+<group restype="x-4DK#" d4:groupName="md4c">
+    <trans-unit d4:value="commonmark:S" id="md4c_1">
+        <source>MD4C dialect CommonMark</source>
+    </trans-unit>
+    <trans-unit d4:value="github:S" id="md4c_2">
+        <source>MD4C dialect GitHub</source>
+    </trans-unit>
+</group>
+</xliff>

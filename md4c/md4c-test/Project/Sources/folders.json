@@ -1,0 +1,13 @@
+{
+	"Tests": {
+		"methods": [
+			"test_all",
+			"test_convert",
+			"test_dialect",
+			"test_flags",
+			"test_renderer",
+			"test_errors"
+		]
+	},
+	"trash": {}
+}

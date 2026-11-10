@@ -1,0 +1,24 @@
+# md4c
+/md4c/md4c-test/Data/
+/md4c/md4c-test/Project/DerivedData/
+/md4c/md4c-test/userPreferences.*/
+/md4c/md4c-test/Logs/
+/md4c/cmake-build/
+**/xcuserdata/
+.DS_Store
+
+# BEGIN 4D PLUGIN PIPELINE (managed)
+/md4c/build/
+/md4c/md4c-test/Plugins/
+/.local-tools/
+/.package-inputs/
+/.package-validation/
+/.release-package/
+/.signed-distribution/
+/.signed-extracted/
+/.publish-extracted/
+/.draft-upload-check/
+/.draft-extracted/
+/.release-notes
+__pycache__/
+# END 4D PLUGIN PIPELINE (managed)

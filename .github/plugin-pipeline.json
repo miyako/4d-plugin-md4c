@@ -1,0 +1,35 @@
+{
+  "build_dir": "md4c/build",
+  "bundle_identifier": "com.4d.md4c",
+  "dependencies": {
+    "allowed_licenses": [
+      "MIT"
+    ],
+    "components": {
+      "md4c": {
+        "license": "MIT",
+        "notice": "md4c.txt",
+        "platforms": [
+          "macos",
+          "windows"
+        ]
+      }
+    },
+    "copyleft_acknowledged": [],
+    "notices_dir": "THIRD-PARTY-NOTICES",
+    "profile": "static",
+    "windows": "none"
+  },
+  "macos_deployment_target": "11.0",
+  "native_tests": false,
+  "product": "md4c",
+  "profile": "macos-universal-windows-x64",
+  "release_branch": "main",
+  "schema": 1,
+  "sdk_dir": "4D-Plugin-SDK",
+  "signing_environment": "release-signing",
+  "signing_policy": "developer-id",
+  "source_dir": "md4c",
+  "startup_method": "test_all",
+  "test_project": "md4c/md4c-test/Project/md4c.4DProject"
+}

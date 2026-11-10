@@ -1,0 +1,11 @@
+{
+    "name": "md4c",
+    "id": 31160,
+    "commands": [
+        {
+            "theme": "md4c",
+            "syntax": "MD4C Convert(&T;&J):J",
+            "threadSafe": true
+        }
+    ]
+}
